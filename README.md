@@ -1,4 +1,4 @@
-# AppearanceScale
+# Color Appearance Scales
 This repo contains the code and data for my PhD dissertation, Representing Color as Multiple Independent Scales.
 
 Two main papers associated with this dissertation can be found below.
